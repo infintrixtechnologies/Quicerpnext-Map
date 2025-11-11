@@ -31,3 +31,9 @@ Pre-commit is configured to use the following tools for checking and formatting 
 ### License
 
 mit
+
+ehsan.javaid@infintrixtech.com
+W;Qb23aQ:3j
+
+mail.hostinger.com
+same login for erp.infintrixtech.com# Quicerpnext-Map
