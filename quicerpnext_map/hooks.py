@@ -20,6 +20,14 @@ app_license = "mit"
 # 		"has_permission": "quicerpnext_map.api.permission.has_app_permission"
 # 	}
 # ]
+fixtures = [
+    {
+        "dt": "Custom Field",
+        "filters": [
+            ["dt", "in", ["Customer", "Supplier", "Item"]]
+        ]
+    }
+]
 
 # Includes in <head>
 # ------------------
